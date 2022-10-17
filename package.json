@@ -1,0 +1,26 @@
+{
+  "name": "proyect-jhaku-back",
+  "version": "1.0.0",
+  "description": "Repositorio para el control de versiones del proyecto JHAKU v1.0  del lado del servidor",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runinbk/Proyect-JHAKU-BACK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runinbk/Proyect-JHAKU-BACK/issues"
+  },
+  "homepage": "https://github.com/runinbk/Proyect-JHAKU-BACK#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3"
+  }
+}
